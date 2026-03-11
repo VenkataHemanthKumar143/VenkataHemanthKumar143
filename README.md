@@ -9,7 +9,7 @@
 ---
 
 # 💫 About Me:
-## 🚀 About Me<br><br>• AI & ML Developer with hands-on experience building applications from development to deployment  <br><br>• Focused on LLM-based applications, Retrieval-Augmented Generation (RAG), and AI agents  <br><br>• Experience developing backend APIs using Python and Node.js  <br><br>• Build frontend interfaces using React and integrate AI into real-world applications  <br><br>• Interested in creating AI-powered tools that automate workflows and integrate with business systems
+<br><br>• AI & ML Developer with hands-on experience building applications from development to deployment  <br><br>• Focused on LLM-based applications, Retrieval-Augmented Generation (RAG), and AI agents  <br><br>• Experience developing backend APIs using Python and Node.js  <br><br>• Build frontend interfaces using React and integrate AI into real-world applications  <br><br>• Interested in creating AI-powered tools that automate workflows and integrate with business systems
 
 
 ## 🌐 Socials:
